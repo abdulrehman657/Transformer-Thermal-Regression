@@ -16,7 +16,8 @@ This project utilizes **Simple Linear Regression** to model the relationship bet
 * **Telemetry Reporting**: Includes a script to export beautified Excel reports with conditional "Heatmap" formatting to highlight risk zones.
 
 ## 🛠️ Getting Started
-1. **Clone the repository**: `git clone https://github.com/your-username/transformer-thermal-regression.git`
+1. **Clone the repository**: `git clone https://github.com/abdulrehman657/Transformer-Thermal-Regression.git`
 2. **Install dependencies**: 
    ```bash
    pip install pandas numpy matplotlib scikit-learn openpyxl
+3. **Content**: `The Excel File And The Python File`
